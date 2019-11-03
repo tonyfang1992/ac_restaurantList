@@ -38,7 +38,7 @@ $ npm run dev
 
 ## Authors
 
-* **方正孝** - *Initial work* - [PurpleBooth](https://github.com/tonyfang1992)
+* **方正孝** - *Initial work* - [tonyFang](https://github.com/tonyfang1992)
 
 .
 
